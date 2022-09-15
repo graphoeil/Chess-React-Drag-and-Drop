@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('reset.min.css');
+
+/* /////////////////////////////// */
+/*               BODY              */
+/* /////////////////////////////// */
+body,html{ -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; height: 100%; }
+#root{ height: 100%; }
+*{ box-sizing: border-box; text-decoration: none; outline: none; }
